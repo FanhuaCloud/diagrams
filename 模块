@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T06:17:08.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="CAcLkZ9JELeME7TC8ZnE" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T06:23:59.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="1QnHKWtHPu_z83zp7isX" version="18.1.2" type="github">
   <diagram id="20peaaHxuLlNfwyL9y9i" name="Page-1">
     <mxGraphModel dx="980" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,28 +43,28 @@
         <mxCell id="1IgKDm9LOQvwVqeieoI7-13" value="后台管理模块" style="dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="335" y="100" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1IgKDm9LOQvwVqeieoI7-14" value="登&#xa;录" style="rounded=0;whiteSpace=wrap;horizontal=1;verticalAlign=middle;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-14" value="登&#xa;录" style="rounded=0;horizontal=1;verticalAlign=middle;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="50" y="170" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1IgKDm9LOQvwVqeieoI7-15" value="课&#xa;程&#xa;展&#xa;示" style="rounded=0;whiteSpace=wrap;horizontal=1;verticalAlign=middle;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-15" value="课&#xa;程&#xa;展&#xa;示" style="rounded=0;horizontal=1;verticalAlign=middle;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="100" y="170" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1IgKDm9LOQvwVqeieoI7-16" value="在&#xa;线&#xa;教&#xa;学" style="rounded=0;whiteSpace=wrap;horizontal=1;verticalAlign=middle;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-16" value="在&#xa;线&#xa;教&#xa;学" style="rounded=0;horizontal=1;verticalAlign=middle;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="150" y="170" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1IgKDm9LOQvwVqeieoI7-17" value="在&#xa;线&#xa;考&#xa;试" style="rounded=0;whiteSpace=wrap;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-17" value="在&#xa;线&#xa;考&#xa;试" style="rounded=0;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="200" y="170" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1IgKDm9LOQvwVqeieoI7-18" value="课&#xa;程&#xa;管&#xa;理" style="rounded=0;whiteSpace=wrap;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-18" value="课&#xa;程&#xa;管&#xa;理" style="rounded=0;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="297.5" y="170" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1IgKDm9LOQvwVqeieoI7-19" value="题&#xa;库&#xa;管&#xa;理" style="rounded=0;whiteSpace=wrap;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-19" value="题&#xa;库&#xa;管&#xa;理" style="rounded=0;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="170" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1IgKDm9LOQvwVqeieoI7-20" value="学&#xa;生&#xa;管&#xa;理" style="rounded=0;whiteSpace=wrap;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-20" value="学&#xa;生&#xa;管&#xa;理" style="rounded=0;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="397.5" y="170" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1IgKDm9LOQvwVqeieoI7-21" value="系&#xa;统&#xa;管&#xa;理" style="rounded=0;whiteSpace=wrap;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-21" value="系&#xa;统&#xa;管&#xa;理" style="rounded=0;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="447.5" y="170" width="40" height="120" as="geometry" />
         </mxCell>
       </root>
