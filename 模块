@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T06:07:12.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" version="18.1.2" etag="zIQhbJC1MVkxWXI3YxwC" type="github"><diagram id="20peaaHxuLlNfwyL9y9i">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-26T06:07:23.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="i5hcXyjtgPjeQjYQ4IEt" version="18.1.2" type="github">
+  <diagram id="20peaaHxuLlNfwyL9y9i" name="Page-1">
+    <mxGraphModel dx="1550" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="1IgKDm9LOQvwVqeieoI7-3" target="1IgKDm9LOQvwVqeieoI7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="1IgKDm9LOQvwVqeieoI7-3" target="1IgKDm9LOQvwVqeieoI7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-3" value="在线教育网站" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="215" y="30" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="1IgKDm9LOQvwVqeieoI7-8" target="1IgKDm9LOQvwVqeieoI7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="1IgKDm9LOQvwVqeieoI7-8" target="1IgKDm9LOQvwVqeieoI7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="1IgKDm9LOQvwVqeieoI7-8" target="1IgKDm9LOQvwVqeieoI7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="1IgKDm9LOQvwVqeieoI7-8" target="1IgKDm9LOQvwVqeieoI7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-8" value="学生模块" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="105" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="1IgKDm9LOQvwVqeieoI7-13" target="1IgKDm9LOQvwVqeieoI7-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="1IgKDm9LOQvwVqeieoI7-13" target="1IgKDm9LOQvwVqeieoI7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="1IgKDm9LOQvwVqeieoI7-13" target="1IgKDm9LOQvwVqeieoI7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="1IgKDm9LOQvwVqeieoI7-13" target="1IgKDm9LOQvwVqeieoI7-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-13" value="后台管理模块" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="335" y="100" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-14" value="登&lt;br style=&quot;font-size: 16px;&quot;&gt;录" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="50" y="170" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-15" value="课&lt;br style=&quot;font-size: 16px;&quot;&gt;程&lt;br style=&quot;font-size: 16px;&quot;&gt;展&lt;br style=&quot;font-size: 16px;&quot;&gt;示" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-16" value="在&lt;br style=&quot;font-size: 16px;&quot;&gt;线&lt;br style=&quot;font-size: 16px;&quot;&gt;教&lt;br style=&quot;font-size: 16px;&quot;&gt;学" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-17" value="在&lt;br style=&quot;font-size: 16px;&quot;&gt;线&lt;br style=&quot;font-size: 16px;&quot;&gt;考&lt;br style=&quot;font-size: 16px;&quot;&gt;试" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-18" value="课&lt;br style=&quot;font-size: 16px;&quot;&gt;程&lt;br style=&quot;font-size: 16px;&quot;&gt;管&lt;br style=&quot;font-size: 16px;&quot;&gt;理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="170" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-19" value="题&lt;br style=&quot;font-size: 16px;&quot;&gt;库&lt;br style=&quot;font-size: 16px;&quot;&gt;管&lt;br style=&quot;font-size: 16px;&quot;&gt;理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="170" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-20" value="学&lt;br style=&quot;font-size: 16px;&quot;&gt;生&lt;br style=&quot;font-size: 16px;&quot;&gt;管&lt;br style=&quot;font-size: 16px;&quot;&gt;理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="170" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1IgKDm9LOQvwVqeieoI7-21" value="系&lt;br style=&quot;font-size: 16px;&quot;&gt;统&lt;br style=&quot;font-size: 16px;&quot;&gt;管&lt;br style=&quot;font-size: 16px;&quot;&gt;理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;flipH=0;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="170" width="40" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
